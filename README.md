@@ -5,7 +5,7 @@ Computer Science student at California Baptist University, concentrating in Arti
 I am interested in software engineering, data analysis, and security-related systems. My work includes Java, Python, C++, and SQL projects focused on algorithms, networking, and software systems.
 
 ## Technical Skills
-Languages: Java, Python, C++, SQL, Dart  
+Languages: Java, Python, C++, SQL, Dart, R  
 Tools: Git, Linux, VS Code, IntelliJ, Flutter  
 
 
