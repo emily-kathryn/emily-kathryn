@@ -8,19 +8,20 @@ I am interested in software engineering, data analysis, and security related sys
 Languages: Java, Python, C++, SQL  
 Tools: Git, Linux, VS Code, IntelliJ  
 
-## Selected Projects
 
-### Java Firewall Simulator
-A Java program that simulates packet filtering based on firewall rules.
+## Projects
 
-### Malware Detection Tool
-Python program that detects suspicious files and demonstrates quarantine and removal concepts.
+### Marine Migration Visualizer
+Tool for visualizing marine migration patterns using simulation and environmental data.
 
-### Doubly Linked List Implementation
-Custom C++ data structure implementation with modular files.
+### Pat Your Mat
+Team project building a class registration and scheduling system for group fitness sessions.
 
-### Networking Lab Environment
-Router, DNS, NAT, and DHCP configuration using Cisco Packet Tracer.
+### CampusMate
+Application designed to help students find study groups and collaborate with classmates.
+
+### Weather Prediction
+Project exploring predictive modeling for weather patterns using historical data.
 
 ## Experience
 Institutional Research Assistant  
