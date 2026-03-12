@@ -1,12 +1,12 @@
 # Emily Ehrenberg
 
-Computer Science student at California Baptist University concentrating in Artificial Intelligence and Machine Learning.
+Computer Science student at California Baptist University, concentrating in Artificial Intelligence and Machine Learning.
 
-I am interested in software engineering, data analysis, and security related systems. My work includes Java, Python, C++, and SQL projects focused on algorithms, networking, and software systems.
+I am interested in software engineering, data analysis, and security-related systems. My work includes Java, Python, C++, and SQL projects focused on algorithms, networking, and software systems.
 
 ## Technical Skills
-Languages: Java, Python, C++, SQL  
-Tools: Git, Linux, VS Code, IntelliJ  
+Languages: Java, Python, C++, SQL, Dart  
+Tools: Git, Linux, VS Code, IntelliJ, Flutter  
 
 
 ## Projects
