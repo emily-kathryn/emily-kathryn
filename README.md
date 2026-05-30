@@ -6,7 +6,7 @@ I am interested in software engineering, data analysis, and security-related sys
 
 ## Technical Skills
 Languages: Java, Python, C++, SQL, Dart, R  
-Tools: Git, Linux, VS Code, IntelliJ, Flutter  
+Tools: Git, VS Code, IntelliJ, Flutter  
 
 
 ## Projects
